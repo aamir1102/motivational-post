@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1,p{
+    text-align: center;
+    color: white;
+}
+
+img{
+    max-width: 100%;
+    border: solid 5px white;
+}
+
+.container{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
